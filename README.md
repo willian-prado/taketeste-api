@@ -21,7 +21,7 @@ Estrutura da aplicação:
 │   │   │   ├── CustomRouter.js
 │   │   ├── utils
 │   │   │   ├── fetchAPI.js
-│   │   │   ├── formatRepo.js
+│   │   │   ├── formatRepos.js
 │   │   ├── App.js
 │   │   ├── index.js
 │   ├── Flow
