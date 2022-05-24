@@ -1,4 +1,4 @@
-# TakeTeste API
+# Take Teste API
 
 API construida como parte do teste técnico do processo seletivo da **Take Blip**.
 
